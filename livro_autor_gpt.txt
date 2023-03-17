@@ -1,0 +1,91 @@
+titulo,autor,ano_publicacao,sexo_autor,pais_origem,sigla_pais
+Flores para Algernon,Daniel Keyes,1966,M,Estados Unidos,USA
+Klara e o sol,Kazuo Ishiguro,2021,M,Reino Unido,UK
+Rilla de Ingleside,L. M. Montgomery,1921,F,Canadá,CAN
+Persépolis,Marjane Satrapi,2000,F,Irã,IRN
+Harry Potter e o Cálice de Fogo,J.K. Rowling,2000,F,Reino Unido,UK
+O Profeta,Khalil Gibran,1923,M,Líbano,LBN
+Cartas de um Diabo a seu Aprendiz,C. S. Lewis,1942,M,Irlanda,IRL
+E Não Sobrou Nenhum,Agatha Christie,1939,F,Reino Unido,UK
+O Caderninho de Desafios de Dash & Lily,David Levithan,2016,M,Estados Unidos,USA
+Fernão Capelo Gaivota,Richard Bach,1970,M,Estados Unidos,USA
+As coisas que você só vê quando desacelera,Haemin Sunim,2012,M,Coreia do Sul,KOR
+Um Conto de Natal,Charles Dickens,1843,M,Reino Unido,UK
+1984,George Orwell,1949,M,Reino Unido,UK
+Mulheres que Correm com os Lobos,Clarissa Pinkola Estés,1992,F,Estados Unidos,USA
+Cristianismo Puro e Simples,C. S. Lewis,1952,M,Irlanda,IRL
+O Sol é Para Todos,Harper Lee,1960,F,Estados Unidos,USA
+A Preparação do Ator,Constantin Stanislavski,1936,M,Rússia,RUS
+O Castelo Animado,Diana Wynne Jones,1986,F,Reino Unido,UK
+O Homem Mais Feliz do Mundo,Eddie Jaku,2019,M,Austrália,AUS
+A Biblioteca da Meia-Noite,Matt Haig,2018,M,Reino Unido,UK
+Antes que o café esfrie,Toshikazu Kawaguchi,2015,M,Japão,JPN
+Um estudo em vermelho,Sir Arthur Conan Doyle,1887,M,Reino Unido,UK
+Anna Kariênina,Leon Tolstói,1877,M,Rússia,RUS
+A Bandeira do Elefante e da Arara (Romance),Christopher Kastensmidt,2017,M,Estados Unidos,USA
+A Espera,Lygia Fagundes Telles,1953,F,Brasil,BRA
+O Grande Livro de Símbolos,Claudio Blanc,2017,M,Brasil,BRA
+O amanhã não está à venda,Ailton Krenak,2018,M,Brasil,BRA
+Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,1999,F,Reino Unido,UK
+Fahrenheit 451,Ray Bradbury,1953,M,Estados Unidos,USA
+Minha querida Sputnik,Haruki Murakami,1999,M,Japão,JPN
+O Morro dos Ventos Uivantes,Emily Brontë,1847,F,Reino Unido,UK
+A Viagem de Théo,Catherine Clément,1997,Francofonia,França,FRA
+Diga aos Lobos Que Estou em Casa,Carol Rifka Brunt,2012,Feminino,Estados Unidos,USA
+Anne de Ingleside,L. M. Montgomery,1939,Feminino,Canadá,CAN
+Harry Potter e a Câmara Secreta,J.K. Rowling,1998,Feminino,Reino Unido,GBR
+O Labirinto do Fauno,Guillermo del Toro,2006,Masculino,México,MEX
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,Feminino,Reino Unido,GBR
+O Deus que destrói sonhos,Rodrigo Bibo,2019,Masculino,Brasil,BRA
+A Vila,Ana Carolina Kherlakian,2019,Feminino,Brasil,BRA
+Crime e Castigo,Fiódor Dostoiévski,1866,Masculino,Rússia,RUS
+Antropoceno,John Green,2021,Masculino,Estados Unidos,USA
+As Crônicas de Nárnia,C. S. Lewis,1950,Masculino,Reino Unido,GBR
+A Luz que Há Entre Nós,Thaís Fernandez,2019,Feminino,Brasil,BRA
+As infinitas vidas de Dylan Reynolds,Sarah Pires Barreirinhas,2019,Feminino,Brasil,BRA
+O milagre da vela de Natal,Cinthia Wüstenhagen,2019,Feminino,Brasil,BRA
+Anne e a Casa dos Sonhos,L. M. Montgomery,1917,Feminino,Canadá,CAN
+Anne de Windy Poplars,L. M. Montgomery,1936,Feminino,Canadá,CAN
+Memórias de um Pretinho de Angola,Suely Cyrino,2009,Feminino,Brasil,BRA
+Anne de Avonlea,L. M. Montgomery,1909,Feminino,Canadá,CAN
+Anne da Ilha,L. M. Montgomery,1915,Feminino,Canadá,CAN
+Memórias de um Exu Sete Catacumbas,Suely Cyrino,2006,Feminino,Brasil,BRA
+Anne de Green Gables,L. M. Montgomery,1908,Feminino,Canadá,CAN
+O Conto da Aia,Margaret Atwood,1985,Feminino,Canadá,CAN
+Torto arado,Itamar Vieira Junior,2019,Masculino,Brasil,BRA
+Uma Prova de Amor,Emily Giffin,2005,Feminino,Estados Unidos,USA
+A Garota No Trem,Paula Hawkins,2015,Feminino,Reino Unido,GBR
+Sonhos Lúcidos ,Dylan Tuccillo,2009,Masculino,Estados Unidos,USA
+Admirável mundo novo,Aldous Huxley,1932,Masculino,Reino Unido,GBR
+A Sutil Arte de Ligar o F*da-se,Mark Manson,2016,Masculino,Estados Unidos,USA
+Mindset,Carol S. Dweck,2006,Feminino,Estados Unidos,USA
+Forrest Gump,Winston Groom,1986,Masculino,Estados Unidos,USA
+Harry Potter e as Relíquias da Morte,J.K. Rowling,2007,F,Reino Unido,UK
+Toda Luz que Não Podemos Ver,Anthony Doerr,2014,M,Estados Unidos,USA
+Os catadores de conchas,Rosamunde Pilcher,1988,F,Reino Unido,UK
+Vidas Secas,Graciliano Ramos,1938,M,Brasil,BR
+A Revolução dos Bichos,George Orwell,1945,M,Reino Unido,UK
+O Diário de Anne Frank,Francise Prose,1947,F,Estados Unidos,USA
+O Menino do Pijama Listrado,Oliver Jeffers,2006,M,Irlanda,IE
+Marley & Eu,John Grogan,2005,M,Estados Unidos,USA
+As Aventuras de Pi,Yann Martel,2001,M,Espanha,ES
+Harry Potter e o Enigma do Príncipe,J.K. Rowling,2005,F,Reino Unido,UK
+A Menina que Roubava Livros,Markus Zusak,2005,M,Austrália,AU
+A Culpa é das Estrelas,John Green,2012,M,Estados Unidos,USA
+O Pequeno Príncipe,Antoine de Saint-Exupéry,1943,M,Brasil,BR
+O Vendedor de Sonhos,Augusto Cury,2008,M,Brasil,BR
+A Menina Que Não Sabia Ler,John Harding,2008,M,Reino Unido,UK
+Um Dia,David Nicholls,2009,M,Reino Unido,UK
+Quarto,Emma Donoghue,2010,F,Irlanda,IE
+Laranja Mecânica,Anthony Burgess,1962,M,Reino Unido,UK
+Ensaio Sobre a Cegueira,José Saramago,1995,M,Portugal,PT
+O incolor Tsukuru Tazaki e seus anos de peregrinação,Haruki Murakami,2013,M,Japão,JP
+O Apanhador no Campo de Centeio,J. D. Salinger,1951,M,Estados Unidos,USA
+Grandes esperanças,Charles Dickens,1861,M,Reino Unido,UK
+Harry Potter e a Pedra Filosofal,J.K. Rowling,1997,F,Reino Unido,UK
+Limpe Sua Mente,S.J. Scott,2016,M,Estados Unidos,USA
+Quatro vidas de um cachorro,W. Bruce Cameron,2010,M,Estados Unidos,USA
+A Garota Que Você Deixou Para Trás,Jojo Moyes,2012,F,Reino Unido,UK
+O Homem Invisível,H. G. Wells,1897,M,Reino Unido,UK
+Por que vivemos,Kentetsu Takamori,2017,M,Japão,JP
+
