@@ -1,0 +1,74 @@
+autor,pais,sigla
+Agatha Christie,United Kingdom,UK
+Ailton Krenak,Brazil,BR
+Aldous Huxley,United Kingdom,UK
+Ana Carolina Kherlakian,Brazil,BR
+Anthony Burgess,United Kingdom,UK
+Anthony Doerr,United States,US
+Antoine de Saint-Exupéry,France,FR
+Augusto Cury,Brazil,BR
+C. S. Lewis,United Kingdom,UK
+Carol Rifka Brunt,United States,US
+Carol S. Dweck,United States,US
+Catherine Clément,France,FR
+Charles Dickens,United Kingdom,UK
+Christopher Kastensmidt,United States,US
+Cinthia Wüstenhagen,Brazil,BR
+Clarissa Pinkola Estés,United States,US
+Claudio Blanc,Brazil,BR
+Constantin Stanislavski,Russia,RU
+Daniel Keyes,United States,US
+David Levithan,United States,US
+David Nicholls,United Kingdom,UK
+Diana Wynne Jones,United Kingdom,UK
+Dylan Tuccillo,United States,US
+Eddie Jaku,Australia,AU
+Emily Brontë,United Kingdom,UK
+Emily Giffin,United States,US
+Emma Donoghue,Ireland,IE
+Fiódor Dostoiévski,Russia,RU
+Francise Prose,United States,US
+George Orwell,United Kingdom,UK
+Graciliano Ramos,Brazil,BR
+Guillermo del Toro,Mexico,MX
+H. G. Wells,United Kingdom,UK
+Haemin Sunim,South Korea,KR
+Harper Lee,United States,US
+Haruki Murakami,Japan,JP
+Itamar Vieira Junior,Brazil,BR
+J. D. Salinger,United States,US
+J.K. Rowling,United Kingdom,UK
+John Green,United States,US
+John Grogan,United States,US
+John Harding,United Kingdom,UK
+Jojo Moyes,United Kingdom,UK
+José Saramago,Portugal,PT
+Kazuo Ishiguro,United Kingdom,UK
+Kentetsu Takamori,Japan,JP
+Khalil Gibran,Lebanon,LB
+L. M. Montgomery,Canada,CA
+Leon Tolstói,Russia,RU
+Lygia Fagundes Telles,Brazil,BR
+Margaret Atwood,Canada,CA
+Marjane Satrapi,Iran,IR
+Mark Manson,United States,US
+Markus Zusak,Australia,AU
+Matt Haig,United Kingdom,UK
+Oliver Jeffers,Ireland,IE
+Paula Hawkins,United Kingdom,UK
+Ray Bradbury,United States,US
+Richard Bach,United States,US
+Rodrigo Bibo,Brazil,BR
+Rosamunde Pilcher,United Kingdom,UK
+S.J. Scott,United States,US
+Sarah Pires Barreirinhas,Brazil,BR
+Sir Arthur Conan Doyle,United Kingdom,UK
+Suely Cyrino,Brazil,BR
+Thaís Fernandez,Brazil,BR 
+Toshikazu Kawaguchi,Japan,JP
+W. Bruce Cameron,United States,US
+Winston Groom,United States,US
+Yann Martel,Canada,CA
+Orhan Pamuk,Turkey,TUR
+
+
